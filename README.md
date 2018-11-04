@@ -1,0 +1,1 @@
+# spring-component-scan-example
